@@ -1,0 +1,2 @@
+rootProject.name = "MyJetpackComposeApp"
+include ':app'
